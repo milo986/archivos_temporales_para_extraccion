@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<registros>
+    <registro>
+        <nombre>Santiago</nombre>
+        <apellido>Mondragon</apellido>
+        <valor1>200.010.000</valor1>
+        <valor2>60.200</valor2>
+    </registro>
+    <registro>
+        <nombre>Laura</nombre>
+        <apellido>Gómez</apellido>
+        <valor1>150.500.000</valor1>
+        <valor2>45.750</valor2>
+    </registro>
+    <registro>
+        <nombre>Carlos</nombre>
+        <apellido>Pérez</apellido>
+        <valor1>98.300.000</valor1>
+        <valor2>32.100</valor2>
+    </registro>
+</registros>
